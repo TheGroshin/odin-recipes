@@ -1,0 +1,32 @@
+body {
+    background-color: midnightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+li {
+    color: white;
+    list-style-type: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: lightblue;
+}
+
+img {
+    display: inline-block;
+    margin-left: 30px;
+}
+
+div {
+    display: inline-block;
+    margin-left: 215px;
+}
